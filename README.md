@@ -6,6 +6,8 @@ type "source fitsis.ado" to get a look at what the syntax should be.
 **lowercase.ado** will go variable by variable through your data set and change all of the variables to lower case.<br>
 **vlabel.ado** is a wrapper for value label command in Stata<br>
 **z1.ado** does min-max normalization<br>
+**sim1.ado** generates two variables with specified correlation<br>
+**simlist.ado** is a tool for making lists for Stata's simulate command<br>
 **scoreit.ado** makes sum scores<br>
 **scoreit.sthlp** is a help file for scoreit<br>
 **itemsummary.ado** makes a tabulation useful for multiple item rating scales<br>
