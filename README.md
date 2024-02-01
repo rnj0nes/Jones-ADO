@@ -11,3 +11,4 @@ type "source fitsis.ado" to get a look at what the syntax should be.
 **scoreit.ado** makes sum scores<br>
 **scoreit.sthlp** is a help file for scoreit<br>
 **itemsummary.ado** makes a tabulation useful for multiple item rating scales<br>
+**blom.ado** (and blom.sthlp) does Blom transformation<br>
