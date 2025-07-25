@@ -11,6 +11,7 @@ type "source fitsis.ado" to get a look at what the syntax should be.
 **simlist.ado** is a tool for making lists for Stata's simulate command<br>
 **scoreit.ado** makes sum scores<br>
 **scoreit.sthlp** is a help file for scoreit<br>
+**standardize.ado**, **standardize.sthlp** for standardizing variables to various scales<br>
 **vlabel.ado** is a wrapper for value label command in Stata<br>
 **z1.ado** does min-max normalization<br>
 
